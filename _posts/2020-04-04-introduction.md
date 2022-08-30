@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction
+permalink: /post-4/
 ---
 
 ![Featured top image](/assets/img/pexels-pixabay-257360.jpg)
