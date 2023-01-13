@@ -1,0 +1,19 @@
+[
+  {
+    "text": "&copy; Untitled. All rights reserved"
+  },
+  {
+    "text": "Jekyll Conversion: ",
+    "link": {
+      "text": "Devpractical",
+      "url": "https://devpractical.com"
+    }
+  },
+  { 
+    "text": "Design: ",
+    "link": {
+      "text": "HTML5 UP",
+      "url": "https://html5up.net"
+    }
+  }
+]
