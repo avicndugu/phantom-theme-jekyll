@@ -2,41 +2,49 @@
   {
     "name": "Twitter",
     "link": "https://twitter.com/_ndugu",
-    "icon": "fa-twitter"
+    "icon": "fa-twitter",
+    "type": "brands"
   },
   {
     "name": "Facebook",
     "link": "#",
-    "icon": "fa-facebook-f"
+    "icon": "fa-facebook-f",
+    "type": "brands"
   },
   {
     "name": "Instagram",
     "link": "#",
-    "icon": "fa-instagram"
+    "icon": "fa-instagram",
+    "type": "brands"
   },
   {
     "name": "Dribble",
     "link": "#",
-    "icon": "fa-dribbble"
+    "icon": "fa-dribbble",
+    "type": "brands"
   },
   {
     "name": "Github",
     "link": "https://github.com/avicndugu/",
-    "icon": "fa-github"
+    "icon": "fa-github",
+    "type": "brands"
   },
   {
     "name": "500px",
     "link": "#",
-    "icon": "fa-500px"
+    "icon": "fa-500px",
+    "type": "brands"
   },
   {
     "name": "Phone",
     "link": "#",
-    "icon": "fa-phone"
+    "icon": "fa-phone",
+    "type": "solid"
   },
   {
     "name": "Email",
     "link": "#",
-    "icon": "fa-envelope"
+    "icon": "fa-envelope",
+    "type": "solid"
   }
 ]

@@ -24,7 +24,7 @@
       <ul class="icons">
         {% for item in site.data.social %}
           <li>
-            <a href="{{ item.link }}" class="icon brands style2 {{ item.icon }}" target="blank">
+            <a href="{{ item.link }}" class="icon {{ item.type }} style2 {{ item.icon }}" target="blank">
               <span class="label">{{ item.name }}</span>
             </a>
           </li>
