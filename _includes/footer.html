@@ -22,6 +22,13 @@
     <section>
       <h2>Follow</h2>
       <ul class="icons">
+        {% for item in site.data.social %}
+          <li>
+            <a href="{{ item.link }}" class="icon brands style2 {{ item.icon }}" target="blank">
+              <span class="label">{{ item.name }}</span>
+            </a>
+          </li>
+  {%    endfor %}
         <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
         <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
         <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>

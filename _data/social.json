@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/_ndugu",
+    "icon": "fa-twitter"
+  },
+  {
+    "name": "Facebook",
+    "link": "#",
+    "icon": "fa-facebook-f"
+  },
+  {
+    "name": "Instagram",
+    "link": "#",
+    "icon": "fa-instagram"
+  },
+  {
+    "name": "Dribble",
+    "link": "#",
+    "icon": "fa-dribbble"
+  },
+  {
+    "name": "Github",
+    "link": "https://github.com/avicndugu/",
+    "icon": "fa-github"
+  },
+  {
+    "name": "500px",
+    "link": "#",
+    "icon": "fa-500px"
+  },
+  {
+    "name": "Phone",
+    "link": "#",
+    "icon": "fa-phone"
+  },
+  {
+    "name": "Email",
+    "link": "#",
+    "icon": "fa-envelope"
+  }
+]

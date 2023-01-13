@@ -1,0 +1,16 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 2
+  - name: "Ipsum veroeros"
+    url: "/post-1/"
+    weight: 3
+  - name: "Tempus etiam"
+    url: "/post-3/"
+    weight: 4
+  - name: "Consequat dolor"
+    url: "/post-4/"
+    weight: 5
+  - name: "Elements"
+    url: "/post-2/"
+    weight: 6
