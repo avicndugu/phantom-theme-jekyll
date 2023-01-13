@@ -1,10 +1,15 @@
 # Setup
-title: Your Website Title
+title: Phantom
 tagline: Your Website Tagline
 url: https://avicndugu.github.io/phantom-theme-jekyll
 paginate: 3
 baseurl: "/phantom-theme-jekyll"
 permalink: pretty
+
+logo:
+  url: "images/logo/wlogo-mobile.svg"
+  height: "32px"
+  width: "32px"
 
 # Gems
 plugins:

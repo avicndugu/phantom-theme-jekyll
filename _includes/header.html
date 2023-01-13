@@ -2,7 +2,15 @@
   <div class="inner">
   <!-- Logo -->
     <a href="{{ site.baseurl }}/" class="logo">
-      <span class="symbol"><img src="{{ 'images/logo.svg' | relative_url }}" alt="" /></span><span class="title">Phantom</span>
+      <span class="symbol">
+        <img 
+          src="{{ site.logo.url | relative_url }}" 
+          alt="{{ site.title }}" 
+          height="{{ site.logo.height }}"
+          width="{{ site.logo.width }}"
+        />
+      </span>
+      <span class="title">{{ site.title }}</span>
     </a>
   <!-- Nav -->
     <nav>
