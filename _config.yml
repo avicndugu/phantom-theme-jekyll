@@ -6,6 +6,9 @@ paginate: 3
 baseurl: "/phantom-theme-jekyll"
 permalink: pretty
 
+# Contact Form using Formspree
+# formspree_form_id:
+
 # Gems
 plugins:
   - jekyll-gist
