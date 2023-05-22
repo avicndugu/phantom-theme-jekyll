@@ -5,6 +5,9 @@ url: "https://avicndugu.github.io/phantom-theme-jekyll"
 baseurl: "/phantom-theme-jekyll"
 permalink: pretty
 
+# Contact Form using Formspree
+formspree_form_id: XXXXXXXX # 8 letter form endpoint code 
+
 # Optimize Jekyll
 exclude:
   - .editorconfig
