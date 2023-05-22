@@ -1,16 +1,9 @@
 # Setup
-title: Your Website Title
+title: Your Website Title  # the name of your site, e.g. ACME Corp.
 tagline: Your Website Tagline
-url: https://avicndugu.github.io/phantom-theme-jekyll
-paginate: 3
+url: "https://avicndugu.github.io/phantom-theme-jekyll"
 baseurl: "/phantom-theme-jekyll"
 permalink: pretty
-
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
 
 # Optimize Jekyll
 exclude:
@@ -26,13 +19,8 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
-
 # Specify the author for blog posts
 author:
   name: Avic Ndugu
   url: https://https://twitter.com/_ndugu
   email: avicndugu1234@gmail.com
-
-# Custom vars
-version: 3.0.0
