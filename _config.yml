@@ -1,8 +1,7 @@
 # Setup
-title: Phantom
+title: Your Website Title  # the name of your site, e.g. ACME Corp.
 tagline: Your Website Tagline
-url: https://avicndugu.github.io/phantom-theme-jekyll
-paginate: 3
+url: "https://avicndugu.github.io/phantom-theme-jekyll"
 baseurl: "/phantom-theme-jekyll"
 permalink: pretty
 
@@ -11,11 +10,8 @@ logo:
   height: "32px"
   width: "32px"
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
+# Contact Form using Formspree
+formspree_form_id: XXXXXXXX # 8 letter form endpoint code 
 
 # Optimize Jekyll
 exclude:
@@ -31,13 +27,8 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
-
 # Specify the author for blog posts
 author:
   name: Avic Ndugu
   url: https://https://twitter.com/_ndugu
   email: avicndugu1234@gmail.com
-
-# Custom vars
-version: 3.0.0
