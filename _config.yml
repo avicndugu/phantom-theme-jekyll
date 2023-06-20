@@ -5,6 +5,11 @@ url: "https://avicndugu.github.io/phantom-theme-jekyll"
 baseurl: "/phantom-theme-jekyll"
 permalink: pretty
 
+logo:
+  url: "images/logo/wlogo-mobile.svg"
+  height: "32px"
+  width: "32px"
+
 # Contact Form using Formspree
 formspree_form_id: XXXXXXXX # 8 letter form endpoint code 
 
