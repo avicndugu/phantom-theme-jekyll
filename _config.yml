@@ -6,7 +6,7 @@ baseurl: "/phantom-theme-jekyll"
 permalink: pretty
 
 logo:
-  url: "images/logo/wlogo-mobile.svg"
+  url: "images/logo.svg"
   height: "32px"
   width: "32px"
 
